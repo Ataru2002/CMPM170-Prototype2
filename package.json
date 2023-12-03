@@ -13,6 +13,7 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "crisp-game-lib": "^1.1.1"
+    "crisp-game-lib": "^1.1.1",
+    "fs": "^0.0.1-security"
   }
 }
